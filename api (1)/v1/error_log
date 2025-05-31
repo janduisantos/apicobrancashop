@@ -1,0 +1,42 @@
+[09-Oct-2023 15:35:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php:27
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/v1/class/Instance.class.php(14): Instance->verifytoken('APP-USER-587723...')
+#1 /home/xxhew0mf/public_html/api/v1/index.php(32): Instance->__construct('APP-USER-587723...')
+#2 {main}
+  thrown in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php on line 27
+[09-Oct-2023 15:35:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php:27
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/v1/class/Instance.class.php(14): Instance->verifytoken('APP-USER-587723...')
+#1 /home/xxhew0mf/public_html/api/v1/index.php(32): Instance->__construct('APP-USER-587723...')
+#2 {main}
+  thrown in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php on line 27
+[09-Oct-2023 15:35:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php:27
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/v1/class/Instance.class.php(14): Instance->verifytoken('APP-USER-587723...')
+#1 /home/xxhew0mf/public_html/api/v1/index.php(32): Instance->__construct('APP-USER-587723...')
+#2 {main}
+  thrown in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php on line 27
+[09-Oct-2023 15:35:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php:27
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/v1/class/Instance.class.php(14): Instance->verifytoken('APP-USER-587723...')
+#1 /home/xxhew0mf/public_html/api/v1/index.php(32): Instance->__construct('APP-USER-587723...')
+#2 {main}
+  thrown in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php on line 27
+[09-Oct-2023 15:35:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php:27
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/v1/class/Instance.class.php(14): Instance->verifytoken('APP-USER-587723...')
+#1 /home/xxhew0mf/public_html/api/v1/index.php(32): Instance->__construct('APP-USER-587723...')
+#2 {main}
+  thrown in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php on line 27
+[09-Oct-2023 15:35:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php:27
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/v1/class/Instance.class.php(14): Instance->verifytoken('APP-USER-587723...')
+#1 /home/xxhew0mf/public_html/api/v1/index.php(32): Instance->__construct('APP-USER-587723...')
+#2 {main}
+  thrown in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php on line 27
+[09-Oct-2023 15:35:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php:27
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/v1/class/Instance.class.php(14): Instance->verifytoken('APP-USER-587723...')
+#1 /home/xxhew0mf/public_html/api/v1/index.php(32): Instance->__construct('APP-USER-587723...')
+#2 {main}
+  thrown in /home/xxhew0mf/public_html/api/v1/class/Instance.class.php on line 27

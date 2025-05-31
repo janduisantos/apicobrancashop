@@ -1,0 +1,710 @@
+[09-Oct-2023 15:32:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:32:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:33:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:33:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:33:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:33:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:33:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:33:45 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:33:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:34:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:34:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:34:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:34:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:34:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[09-Oct-2023 15:34:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:40:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:40:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:40:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:41:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:41:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:41:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:41:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:41:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:41:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:42:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:42:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:42:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:42:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:42:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:42:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:42:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:43:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:43:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:43:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:43:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:43:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:43:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:43:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:44:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:44:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:44:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:44:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:44:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:44:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:44:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:45:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:45:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:45:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:45:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:45:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:45:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:45:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:46:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:46:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:46:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:46:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:46:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:46:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:46:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:47:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:47:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:47:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:47:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:47:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:47:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:47:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:48:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:48:06 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:48:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:48:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:48:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:48:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:48:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:49:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:49:07 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:49:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:49:27 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:49:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:49:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:49:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:50:06 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:50:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:50:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:50:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:50:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:50:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:50:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:51:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:51:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:51:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:51:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:51:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:51:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:52:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:52:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:52:10 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:52:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:52:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:52:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:52:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:53:01 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:53:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:53:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:53:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:53:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:53:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:53:51 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:54:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:54:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:54:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:54:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:54:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:54:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:54:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:55:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:55:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:55:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:55:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:55:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:55:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:55:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:56:03 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:56:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:56:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:56:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:56:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:56:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:56:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:57:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:57:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:57:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:57:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:57:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:57:45 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:58:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:58:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:58:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:58:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:59:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:59:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:59:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
+[25-Oct-2023 01:59:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/xxhew0mf/public_html/panel/class/Messages.class.php:88
+Stack trace:
+#0 /home/xxhew0mf/public_html/api/cron/fila.php(17): Messages->getFila()
+#1 {main}
+  thrown in /home/xxhew0mf/public_html/panel/class/Messages.class.php on line 88
